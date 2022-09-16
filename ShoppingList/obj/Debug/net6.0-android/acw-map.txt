@@ -1,0 +1,3 @@
+ShoppingList.MainActivity, ShoppingList;crc647ac5fe0ad803fabb.MainActivity
+ShoppingList.MainActivity;crc647ac5fe0ad803fabb.MainActivity
+shoppinglist.MainActivity;crc647ac5fe0ad803fabb.MainActivity

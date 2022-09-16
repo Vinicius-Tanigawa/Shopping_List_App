@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/q9+lkfLxIrj3SGpe++GGPVAY5YSPZ7v/McbVszzf5yO7+Gwm2gkXyj1GQ1Nwzoltyy9LvfKLaYScwYyO9EmZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vktan\\OneDrive\\Documentos\\Projects\\ShoppingList\\ShoppingList\\ShoppingList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vktan\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.8\\microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512",
+    "C:\\Users\\vktan\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm64\\6.0.8\\microsoft.netcore.app.host.linux-arm64.6.0.8.nupkg.sha512",
+    "C:\\Users\\vktan\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm\\6.0.8\\microsoft.netcore.app.host.linux-arm.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
